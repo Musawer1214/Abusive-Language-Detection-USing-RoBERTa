@@ -28,6 +28,7 @@ The dataset used for training includes text labeled for various types of toxicit
 - Identity hate
 
 The dataset is cleaned and preprocessed before being used for fine-tuning the RoBERTa model.
+The dataset can be found on https://www.kaggle.com/datasets/musawerhussain/abusive-language-detection-in-speech
 
 ## Setup
 
